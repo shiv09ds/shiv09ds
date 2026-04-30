@@ -84,6 +84,7 @@ I'm a passionate **Full-Stack Developer** with a love for building intelligent, 
 | Project | Description | Stack |
 |---|---|---|
 | 🔍 **Fake Review Detector** | Chrome extension that flags suspicious reviews on Myntra/Flipkart/Amazon using ML | Python · FastAPI · Chrome Extension · scikit-learn |
+| 🎬 **Cineswipe** | a TikTok-style content discovery app for movies, TV shows, anime, K-Dramas and web series | React · TypeScript · Vite · Tailwind CSS · Framer Motion |
 | 🛒 **E-commerce Scraper** | API interception pipeline using `webRequest` + cookies for authenticated data collection | JavaScript · Chrome APIs · Python |
 
 > More projects coming soon — stay tuned! ⭐
