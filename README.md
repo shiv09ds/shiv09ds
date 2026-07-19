@@ -68,8 +68,8 @@ I'm a passionate **Full-Stack Developer** with a love for building intelligent, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shiv09ds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv09ds&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=shiv09ds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shiv09ds&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
